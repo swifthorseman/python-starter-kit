@@ -27,13 +27,7 @@ The `Makefile` has everything required to set up the development environment loc
     $ make test
     ```
 
-1. Start the app.  By default, it listens on the port 3000.
-    ```
-    $ make start-app
-    ```
-
 1. To format the code:
     ```
     $ make format-code
     ```
-

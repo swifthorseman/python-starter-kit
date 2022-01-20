@@ -4,13 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-fastapi = "*"
-pytest = "*"
 pytest-cov = "*"
-requests = "*"
 yapf = "*"
 isort = "*"
-uvicorn = "*"
 
 [dev-packages]
 
